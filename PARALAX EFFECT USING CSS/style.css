@@ -1,75 +1,57 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
-    font-family: cursive;
+    font-family: 'Poppins', sans-serif;
 }
-
-
-
 .section1{
+    height: 100vh;
+    width: 100%;
     display: grid;
     place-items: center;
     text-align: center;
-    width: 100%;
-    height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://www.hindustantimes.com/ht-img/img/2025/02/22/550x309/PTI05-10-2023-000236B-0_1683795702543_1740194855174.jpg");
-    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://plus.unsplash.com/premium_photo-1661914399349-feb0d755c411?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover;
     background-attachment: fixed;
-
 }
-
 .section2{
     display: grid;
     place-items: center;
     text-align: center;
-    width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://femina.wwmindia.com/content/2023/dec/virat-kohli-thumb1702286545.jpg");
-    background-repeat: no-repeat;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW91bnRhaW58ZW58MHx8MHx8fDA%3D');
     background-size: cover;
-    background-attachment: fixed;}
-
+    background-attachment: fixed;
+}
 .section3{
     display: grid;
     place-items: center;
     text-align: center;
-    width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://static.cricbuzz.com/a/img/v1/1080x608/i1/c625749/rohit-sharma-poses-with-the-champions-trophy-in-dubai.jpg");
-    background-repeat: no-repeat;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('https://images.unsplash.com/photo-1511497584788-876760111969?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9yZXN0fGVufDB8fDB8fHww');
     background-size: cover;
     background-attachment: fixed;
 }
-
 .section4{
     display: grid;
     place-items: center;
     text-align: center;
-    width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://c.files.bbci.co.uk/121A2/production/_127564147_gettyimages-1351489843.jpg");
-    background-repeat: no-repeat;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover;
     background-attachment: fixed;
 }
-
-
 h1{
     font-size: 62px;
+    color: #e6e1e1;
     font-weight: bold;
     text-transform: uppercase;
-    color: #fff;
     text-shadow: 2px 2px 5px #000;
 }
 p{
-    font-size: 21px;
-    color: #fff;
+    font-size: 20px;
+    color: #e6e1e1;
 }
-
-
-
-
-
-
