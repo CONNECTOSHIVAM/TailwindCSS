@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "jost",sans-serif;
+}
+
+
+
+.section1{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://www.hindustantimes.com/ht-img/img/2025/02/22/550x309/PTI05-10-2023-000236B-0_1683795702543_1740194855174.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.section2{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://femina.wwmindia.com/content/2023/dec/virat-kohli-thumb1702286545.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
+
+.section3{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://static.cricbuzz.com/a/img/v1/1080x608/i1/c625749/rohit-sharma-poses-with-the-champions-trophy-in-dubai.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section4{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://c.files.bbci.co.uk/121A2/production/_127564147_gettyimages-1351489843.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1{
+    font-size: 62px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 2px 2px 5px #000;
+}
+p{
+    font-size: 21px;
+    color: #fff;
+}
+
+
+
+
+
+
